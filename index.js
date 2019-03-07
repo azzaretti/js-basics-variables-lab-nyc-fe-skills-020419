@@ -1,2 +1,2 @@
-constl companyName = 'Scuber'
+const companyName = 'Scuber'
 
